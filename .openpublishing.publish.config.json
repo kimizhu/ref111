@@ -29,16 +29,16 @@
         ]
       },
       "ECMA2Yaml": {
-        "SourceXmlFolder": "dotnet/xml",
-        "OutputYamlFolder": "dotnet/api",
+        "SourceXmlFolder": "ref111/xml",
+        "OutputYamlFolder": "ref111/api",
         "Flatten": true,
-        "id": "dotnet-template"
+        "id": "ref111"
       },
       "SplitTOC": [
-        "dotnet/api/dotnet-template/toc.yml"
+        "ref111/api/ref111/toc.yml"
       ],
       "DiffFolder": [
-        "dotnet/api"
+        "ref111/api"
       ]
     }
   ],
